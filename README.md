@@ -1,6 +1,6 @@
 # Dental Clinic Queuing System Simulation
 
-**ASSIGNMENT 2 – PHASE 1 | CO3007 – Performance Evaluation of Computer Systems**  
+**ASSIGNMENT 2 – FINAL PHASE | CO3007 – Performance Evaluation of Computer Systems**  
 **Team: Shadow Gambit** | November 2025
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org)
 [![SimPy](https://img.shields.io/badge/SimPy-4.1-success)](https://simpy.readthedocs.io)
