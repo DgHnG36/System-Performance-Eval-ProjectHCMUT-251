@@ -46,7 +46,7 @@ This project implements a **discrete-event simulation** of a modern dental clini
 ```bash
 # Clone the repository (if applicable)
 git clone https://github.com/DgHnG36/System-Performance-Eval-ProjectHCMUT-251.git
-cd System-Performance-Eval-ProjectHCMUT-251
+cd /System-Performance-Eval-ProjectHCMUT-251/SystemPerformanceReport
 
 # Install dependencies
 pip install simpy numpy matplotlib pandas seaborn
